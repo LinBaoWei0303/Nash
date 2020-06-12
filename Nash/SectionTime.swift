@@ -11,4 +11,6 @@ import Foundation
 struct SectionTime {
     var startTimeInterval : Int = 0
     var endTimeInterval : Int = 0
+    
+    
 }

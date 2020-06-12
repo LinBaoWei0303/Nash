@@ -11,6 +11,7 @@ import UIKit
 import Alamofire
 import SwiftyJSON
 
+
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
@@ -70,7 +71,7 @@ class ViewController: UIViewController {
             break;
         }
         
-        })
+        }) 
         
         
 //        AF.request("https://nashservice.azurewebsites.net/api/BackgroundAudioApi").responseString(completionHandler: {
@@ -103,8 +104,8 @@ class ViewController: UIViewController {
 //
 //
 //                   }
-    }
+//    }
 
 
-}
+//}
 
